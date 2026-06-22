@@ -1,0 +1,33 @@
+{
+  "conversation_id": "c4027d5e-d5b2-4972-a77d-540b84cc03e2",
+  "created_at": "2026-06-16T11:59:51.251498",
+  "messages": [
+    {
+      "timestamp": "2026-06-16T11:59:51.251498",
+      "role": "user",
+      "content": "Yes, that fixed it!",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-16T11:59:51.281687",
+      "role": "bot",
+      "content": "Glad to hear your issue has been resolved. If you need any additional IT support assistance, please let me know.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "IT Service Desk Document.pdf",
+          "User ID Management Guidelines.pdf",
+          "VZ.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "Glad to hear your issue has been resolved. If you need any additional IT support assistance, please let me know."
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-16T11:59:51.281687"
+}

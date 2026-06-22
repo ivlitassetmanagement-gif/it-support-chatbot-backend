@@ -1,0 +1,133 @@
+{
+  "conversation_id": "4e6eff6e-8d8c-4415-8a92-0b48a79c04f1",
+  "created_at": "2026-06-12T18:11:54.287087",
+  "messages": [
+    {
+      "timestamp": "2026-06-12T18:11:54.287087",
+      "role": "user",
+      "content": "S",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-12T18:11:54.710951",
+      "role": "bot",
+      "content": "It seems like you didn't actually ask a question, you just typed \"S\". Could you please provide the actual question you'd like me to help with? I'll do my best to provide a concise and helpful answer based on the provided IT policies and documentation.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-14T15:51:50.520565",
+      "role": "user",
+      "content": "hi",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-14T15:51:55.830132",
+      "role": "bot",
+      "content": "Hello. How can I assist you with your IT-related query today?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-14T15:52:07.612504",
+      "role": "user",
+      "content": "vpn password reset",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-14T15:52:08.286272",
+      "role": "bot",
+      "content": "To reset your VPN password, you'll need to reset your network password (AD login) as they are the same. Follow these steps:\n\n1. Go to https://account.microsoft.com/security\n2. Click \"Change password\"\n3. Enter your current password\n4. Create a new strong password (minimum 12 characters)\n5. Include: uppercase, lowercase, numbers, symbols\n6. Click \"Save\"\n7. You'll need to re-login to all devices, including the VPN.\n\nIf you've forgotten your password, click \"Can't access your account?\" on the login page and follow the recovery steps. If you're still having issues, contact IT support.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-14T16:08:18.892104",
+      "role": "user",
+      "content": "Account Info",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-14T16:08:19.789058",
+      "role": "bot",
+      "content": "To find information about your account, you can go to https://account.microsoft.com/security as mentioned in the password reset procedure. If you have specific questions about your account or need assistance, you can contact IT support.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-14T16:08:39.488702",
+      "role": "user",
+      "content": "How to reset password",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-14T16:08:40.054664",
+      "role": "bot",
+      "content": "To reset your password, follow these steps:\n\n1. Go to https://account.microsoft.com/security\n2. Click \"Change password\"\n3. Enter your current password\n4. Create a new strong password (minimum 12 characters, including uppercase, lowercase, numbers, and symbols)\n5. Click \"Save\"\n6. You'll need to re-login to all devices\n\nIf you've forgotten your password, click \"Can't access your account?\" on the login page, verify your identity, and follow the recovery steps. If you're still locked out, contact IT support.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-14T16:30:34.814174",
+      "role": "user",
+      "content": "hi",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-14T16:30:35.800407",
+      "role": "bot",
+      "content": "Hello. How can I assist you with your IT-related query today?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-14T16:30:35.800407"
+}

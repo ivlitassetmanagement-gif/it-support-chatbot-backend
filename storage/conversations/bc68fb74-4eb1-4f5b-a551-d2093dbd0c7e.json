@@ -1,0 +1,35 @@
+{
+  "conversation_id": "bc68fb74-4eb1-4f5b-a551-d2093dbd0c7e",
+  "created_at": "2026-06-14T18:37:37.010882",
+  "messages": [
+    {
+      "timestamp": "2026-06-14T18:37:37.010882",
+      "role": "user",
+      "content": "vpn",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-14T18:37:37.988572",
+      "role": "bot",
+      "content": "To connect to the corporate VPN, follow these steps: \n\n1. Download the VPN Client from the IT portal.\n2. Open the VPN application.\n3. Enter your username (your.email@company.com) and password (your network password).\n4. Click \"Connect\" and wait for the \"Connected\" status.\n\nIf you encounter any issues, refer to the troubleshooting section in the VPN connection guide for assistance.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-14T18:37:37.988572"
+}

@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ab2e1e33-7c1c-4221-a1b3-79f272de59a0",
+  "created_at": "2026-06-12T18:00:10.921011",
+  "messages": [
+    {
+      "timestamp": "2026-06-12T18:00:10.921011",
+      "role": "user",
+      "content": "Password reset",
+      "metadata": {
+        "user_id": 1
+      }
+    },
+    {
+      "timestamp": "2026-06-12T18:00:18.531759",
+      "role": "bot",
+      "content": "To reset your password, follow these steps: \n\n1. Go to https://account.microsoft.com/security and click \"Change password\".\n2. Enter your current password, then create a new strong password (minimum 12 characters, including uppercase, lowercase, numbers, and symbols).\n3. Click \"Save\" and re-login to all devices.\n\nIf you've forgotten your password, click \"Can't access your account?\" on the login page, verify your identity, and follow the recovery steps. If you're still locked out, contact IT support.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-12T18:00:18.531759"
+}

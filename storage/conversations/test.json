@@ -1,0 +1,35 @@
+{
+  "conversation_id": "test",
+  "created_at": "2026-06-15T11:20:45.060767",
+  "messages": [
+    {
+      "timestamp": "2026-06-15T11:20:45.060767",
+      "role": "user",
+      "content": "Hello",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:20:45.383614",
+      "role": "bot",
+      "content": "Hello. How can I assist you with your IT-related query today?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T11:20:45.383614"
+}

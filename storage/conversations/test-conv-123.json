@@ -1,0 +1,64 @@
+{
+  "conversation_id": "test-conv-123",
+  "created_at": "2026-06-14T20:11:33.303048",
+  "messages": [
+    {
+      "timestamp": "2026-06-14T20:11:33.303048",
+      "role": "user",
+      "content": "Hello, what is IT support?",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-14T20:11:34.152622",
+      "role": "bot",
+      "content": "IT support is not explicitly defined in the provided documents, but based on the context, it appears that IT support is a team or resource that can be contacted for assistance with technical issues, such as VPN connection problems or password resets, as mentioned in the troubleshooting sections of the VPN setup guide and password reset procedure.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:42:56.585540",
+      "role": "user",
+      "content": "Hello, I need help with resetting my password",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:43:00.532528",
+      "role": "bot",
+      "content": "To reset your password, you can follow these steps:\n\n1. Go to https://account.microsoft.com/security\n2. Click \"Change password\"\n3. Enter your current password\n4. Create a new strong password (minimum 12 characters) with uppercase, lowercase, numbers, and symbols\n5. Click \"Save\"\n\nIf you've forgotten your password, click \"Can't access your account?\" on the login page, verify your identity, and follow the recovery steps. If you're still having issues, feel free to contact IT support for further assistance.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "VZ.txt",
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T15:43:00.532528"
+}

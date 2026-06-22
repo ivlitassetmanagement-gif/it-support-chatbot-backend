@@ -1,0 +1,37 @@
+{
+  "conversation_id": "test-pdf-1346620385",
+  "created_at": "2026-06-15T15:50:33.819266",
+  "messages": [
+    {
+      "timestamp": "2026-06-15T15:50:33.819266",
+      "role": "user",
+      "content": "What is the antivirus policy?",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:50:38.665342",
+      "role": "bot",
+      "content": "Gd}\u0017_\u0013-\u0017\u000e3E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f\u00133E9}\u000f",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "Access Control Policy.pdf",
+          "IT Service Desk Document.pdf",
+          "User ID Management Guidelines.pdf",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T15:50:38.665342"
+}

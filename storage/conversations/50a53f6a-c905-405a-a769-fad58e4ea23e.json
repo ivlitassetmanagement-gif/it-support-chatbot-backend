@@ -1,0 +1,35 @@
+{
+  "conversation_id": "50a53f6a-c905-405a-a769-fad58e4ea23e",
+  "created_at": "2026-06-14T18:39:14.526685",
+  "messages": [
+    {
+      "timestamp": "2026-06-14T18:39:14.526685",
+      "role": "user",
+      "content": "i need pdf license",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-14T18:39:15.090967",
+      "role": "bot",
+      "content": "The provided IT documents do not mention PDF licenses. If you need a PDF license, please contact IT support for assistance.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-14T18:39:15.090967"
+}

@@ -1,0 +1,35 @@
+{
+  "conversation_id": "test123",
+  "created_at": "2026-06-14T19:57:44.656595",
+  "messages": [
+    {
+      "timestamp": "2026-06-14T19:57:44.656595",
+      "role": "user",
+      "content": "What is IT support?",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-14T19:57:49.104044",
+      "role": "bot",
+      "content": "The provided IT documents do not explicitly define what IT support is. However, based on the context, it appears that IT support refers to the team or department that assists with technical issues, such as troubleshooting VPN connections and password resets, as mentioned in the troubleshooting sections of the VPN setup guide and password policy. If you need help with a specific issue, it is suggested to contact IT, implying that IT support is available to provide assistance.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-14T19:57:49.104044"
+}

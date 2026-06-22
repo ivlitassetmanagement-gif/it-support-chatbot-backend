@@ -1,0 +1,33 @@
+{
+  "conversation_id": "3a19e9dc-1634-44c4-b97e-4c29c41772c3",
+  "created_at": "2026-06-16T11:55:50.707486",
+  "messages": [
+    {
+      "timestamp": "2026-06-16T11:55:50.707486",
+      "role": "user",
+      "content": "Still not working, I tried everything",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-16T11:55:50.731569",
+      "role": "bot",
+      "content": "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "Access Control Policy.pdf",
+          "Antivirus Policy.pdf",
+          "IT Service Desk Document.pdf",
+          "VZ.txt"
+        ],
+        "follow_up_questions": [
+          "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-16T11:55:50.731569"
+}

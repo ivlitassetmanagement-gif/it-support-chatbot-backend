@@ -1,0 +1,94 @@
+MICROSOFT 365 EMAIL SETUP PROCEDURE
+
+Step 1: Receive Welcome Email
+- You will receive an email from the IT Support Team containing:
+  - Microsoft 365 Login URL
+  - Company Email Address
+  - Temporary Password
+
+Step 2: Sign In to Microsoft 365
+1. Open https://www.office.com
+2. Click Sign In.
+3. Enter your company email address.
+4. Click Next.
+5. Enter the temporary password provided by the IT Engineer.
+6. Click Sign In.
+
+Step 3: Change Temporary Password
+1. Enter the temporary password.
+2. Create a new password.
+3. Confirm the new password.
+4. Password Requirements:
+   - Minimum 12 characters
+   - At least 1 uppercase letter
+   - At least 1 lowercase letter
+   - At least 1 number
+   - At least 1 special character
+5. Click Submit.
+
+Step 4: Configure Multi-Factor Authentication (MFA)
+1. Click Next when prompted for additional security verification.
+2. Install Microsoft Authenticator on your mobile phone.
+3. Open Microsoft Authenticator.
+4. Select Add Account.
+5. Choose Work or School Account.
+6. Select Scan QR Code.
+7. Scan the QR code displayed on your computer screen.
+8. Approve the test notification sent to your mobile device.
+9. Click Next to complete MFA setup.
+
+Step 5: Access Outlook Web Mail
+1. Open https://outlook.office.com
+2. Sign in using your company email address.
+3. Enter your new password.
+4. Approve the MFA notification when prompted.
+
+Step 6: Configure Outlook Desktop (Optional)
+1. Open Microsoft Outlook.
+2. Enter your company email address.
+3. Click Connect.
+4. Enter your password.
+5. Complete MFA verification.
+6. Outlook will automatically configure your mailbox.
+7. Click Finish.
+
+Verification Checklist
+- Successfully signed in to Microsoft 365.
+- Password changed successfully.
+- MFA configured successfully.
+- Able to access Outlook Web Mail.
+- Able to send and receive emails.
+- Outlook Desktop connected successfully.
+
+IF THE ISSUE IS NOT RESOLVED
+
+If you are still unable to access your email account after following the above steps:
+
+1. Visit the Productivv Ticketing Portal:
+   https://productivv.ivlglobal.com/#/login
+
+2. Log in using your company credentials.
+
+3. Navigate to:
+   IT Service Desk → Create Ticket
+
+4. Select Category:
+   - Microsoft 365
+   - Email Issue
+   - MFA Issue
+   - Outlook Issue
+   - Password Reset
+
+5. Provide the following details:
+   - Employee ID
+   - Email Address
+   - Contact Number
+   - Detailed Description of the Issue
+   - Screenshot of the Error (if available)
+
+6. Submit the ticket.
+
+7. An IT Engineer will contact you shortly and provide further assistance.
+
+Setup completed successfully.
+Your Microsoft 365 account is now ready for use.

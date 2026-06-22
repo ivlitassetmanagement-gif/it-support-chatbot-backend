@@ -1,0 +1,28 @@
+{
+  "conversation_id": "139554b9-0ad0-4faf-80fc-a4f72b78a5ba",
+  "created_at": "2026-06-17T11:03:32.398180",
+  "messages": [
+    {
+      "timestamp": "2026-06-17T11:03:32.398180",
+      "role": "user",
+      "content": "Hi",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-17T11:03:32.404485",
+      "role": "bot",
+      "content": "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?",
+      "metadata": {
+        "source_type": "web",
+        "confidence": "medium",
+        "sources": [],
+        "follow_up_questions": [
+          "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-17T11:03:32.404485"
+}

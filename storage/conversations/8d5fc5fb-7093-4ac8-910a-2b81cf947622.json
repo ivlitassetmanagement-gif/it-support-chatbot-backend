@@ -1,0 +1,32 @@
+{
+  "conversation_id": "8d5fc5fb-7093-4ac8-910a-2b81cf947622",
+  "created_at": "2026-06-16T15:38:24.529083",
+  "messages": [
+    {
+      "timestamp": "2026-06-16T15:38:24.529083",
+      "role": "user",
+      "content": "Hi",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-16T15:38:27.915676",
+      "role": "bot",
+      "content": "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "VZ.txt",
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-16T15:38:27.915676"
+}

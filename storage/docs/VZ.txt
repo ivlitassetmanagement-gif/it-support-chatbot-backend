@@ -1,0 +1,6 @@
+Welcome to VZ Project
+
+Sophos VPN not working follow this process
+
+1. Enter username like name.chn
+2.Your password will be Sophos password+authendicator code

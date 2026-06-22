@@ -1,0 +1,91 @@
+{
+  "conversation_id": "conv_1781503015023",
+  "created_at": "2026-06-15T11:27:06.565960",
+  "messages": [
+    {
+      "timestamp": "2026-06-15T11:27:06.565960",
+      "role": "user",
+      "content": "Hardware issue",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:27:06.975591",
+      "role": "bot",
+      "content": "The provided IT documents do not mention a specific procedure for addressing hardware issues. If you're experiencing a hardware issue, I recommend contacting IT support directly for assistance.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:27:13.709114",
+      "role": "user",
+      "content": "Hi",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:27:13.957423",
+      "role": "bot",
+      "content": "You haven't asked a question yet. Please go ahead and ask your question, and I'll do my best to help based on the provided IT documents.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:27:29.809370",
+      "role": "user",
+      "content": "VPN Password",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:27:30.405587",
+      "role": "bot",
+      "content": "Your VPN password is your network password, also known as your Active Directory (AD) login password. If you need to reset this password, you can follow the steps outlined in the password reset procedure document.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T11:27:30.405587"
+}

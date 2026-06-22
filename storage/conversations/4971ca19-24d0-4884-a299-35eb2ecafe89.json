@@ -1,0 +1,32 @@
+{
+  "conversation_id": "4971ca19-24d0-4884-a299-35eb2ecafe89",
+  "created_at": "2026-06-16T11:54:44.593118",
+  "messages": [
+    {
+      "timestamp": "2026-06-16T11:54:44.593118",
+      "role": "user",
+      "content": "How do I set up VPN?",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-16T11:54:48.724843",
+      "role": "bot",
+      "content": "To set up VPN, please follow these steps:\n\n1. **Download VPN Client**: Download the VPN Client from the IT portal. This is the software that will allow you to connect to the corporate VPN.\n2. **Open VPN Application**: Open the VPN application that you just downloaded. This will launch the VPN client.\n3. **Enter Username**: Enter your username in the format `your.email@company.com`. This is the same email address you use for company email.\n4. **Enter Password**: Enter your network password (AD login). This is the same password you use to log in to your computer.\n5. **Click \"Connect\"**: Click the \"Connect\" button to establish a connection to the VPN.\n6. **Wait for \"Connected\" Status**: Wait for the VPN client to establish a connection and display a \"Connected\" status.\n\nPlease note that you need to have a stable internet connection to connect to the VPN. If you encounter any issues during the setup process, you can refer to the troubleshooting section in the VPN documentation.\n\nDid this resolve your issue?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "VZ.txt",
+          "email_setup.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-16T11:54:48.724843"
+}

@@ -1,0 +1,30 @@
+{
+  "conversation_id": "af5eab88-fe35-4376-8ecb-5524791c3e0b",
+  "created_at": "2026-06-17T11:02:28.950217",
+  "messages": [
+    {
+      "timestamp": "2026-06-17T11:02:28.950217",
+      "role": "user",
+      "content": "test",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-17T11:02:33.827037",
+      "role": "bot",
+      "content": "I am an IT Support Assistant and can only assist with IT-related issues, troubleshooting, access requests, and technical support inquiries. Please submit an IT-related request.",
+      "metadata": {
+        "source_type": "web",
+        "confidence": "medium",
+        "sources": [],
+        "follow_up_questions": [
+          "What is your IT issue?",
+          "Do you have error messages?",
+          "Need help with something?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-17T11:02:33.827037"
+}

@@ -1,0 +1,35 @@
+{
+  "conversation_id": "af14504a-4ea1-4e9a-9b3b-ce865d61454a",
+  "created_at": "2026-06-14T18:53:28.784547",
+  "messages": [
+    {
+      "timestamp": "2026-06-14T18:53:28.784547",
+      "role": "user",
+      "content": "WiFi connection issues",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-14T18:53:29.274145",
+      "role": "bot",
+      "content": "The provided IT documents do not mention WiFi connection issues. The documents cover VPN connection setup, troubleshooting, and password reset procedures. If you're experiencing WiFi connection issues, I recommend contacting IT support for assistance as this information is not available in the provided documents.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-14T18:53:29.274145"
+}

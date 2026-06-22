@@ -1,0 +1,32 @@
+{
+  "conversation_id": "d09e35b6-251b-48cc-876f-56003b21be14",
+  "created_at": "2026-06-16T11:55:27.153132",
+  "messages": [
+    {
+      "timestamp": "2026-06-16T11:55:27.153132",
+      "role": "user",
+      "content": "Still not working",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-16T11:55:27.177619",
+      "role": "bot",
+      "content": "I'm sorry that the issue is still occurring. Let me gather some additional details so I can assist further.\n\nPlease provide:\n• Exact error message (if available)\n• Screenshot (if available)\n• Device name\n• Operating system (Windows/Mac/Linux)\n• Application name\n• Time when the issue occurred\n• Steps you've already tried\n\nThis information will help me identify an alternative solution or escalate your issue to the IT Support Team for investigation.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "IT Service Desk Document.pdf",
+          "VZ.txt",
+          "password_policy.txt"
+        ],
+        "follow_up_questions": [
+          "Hello! Welcome to IT Support. How may I assist you with your IT-related issue, service request, or technical support need today?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-16T11:55:27.177619"
+}

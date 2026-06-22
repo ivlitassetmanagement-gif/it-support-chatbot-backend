@@ -1,0 +1,35 @@
+{
+  "conversation_id": "conv_1781503447719",
+  "created_at": "2026-06-15T11:34:10.670655",
+  "messages": [
+    {
+      "timestamp": "2026-06-15T11:34:10.670655",
+      "role": "user",
+      "content": "VPN issue",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:34:11.353624",
+      "role": "bot",
+      "content": "To troubleshoot your VPN issue, could you please provide more details about the problem you're experiencing? Is your connection failing, are you experiencing slow speeds, or is your VPN disconnecting often? This will help me provide a more specific solution based on our IT documentation.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T11:34:11.353624"
+}

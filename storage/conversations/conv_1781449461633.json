@@ -1,0 +1,35 @@
+{
+  "conversation_id": "conv_1781449461633",
+  "created_at": "2026-06-14T20:34:23.535258",
+  "messages": [
+    {
+      "timestamp": "2026-06-14T20:34:23.535258",
+      "role": "user",
+      "content": "Hardware issue",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-14T20:34:27.757104",
+      "role": "bot",
+      "content": "The provided IT documents do not mention procedures for addressing hardware issues. If you're experiencing a hardware problem, I recommend contacting IT support directly for assistance.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-14T20:34:27.757104"
+}

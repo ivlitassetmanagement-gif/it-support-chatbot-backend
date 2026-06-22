@@ -1,0 +1,36 @@
+{
+  "conversation_id": "test-pdf-1090600777",
+  "created_at": "2026-06-15T15:50:43.419320",
+  "messages": [
+    {
+      "timestamp": "2026-06-15T15:50:43.419320",
+      "role": "user",
+      "content": "What are mobile computing guidelines?",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:50:43.682324",
+      "role": "bot",
+      "content": "The provided IT documents do not contain information on mobile computing guidelines.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "VZ.txt",
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T15:50:43.682324"
+}

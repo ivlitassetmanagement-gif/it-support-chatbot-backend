@@ -1,0 +1,64 @@
+{
+  "conversation_id": "test-123",
+  "created_at": "2026-06-15T11:17:58.295851",
+  "messages": [
+    {
+      "timestamp": "2026-06-15T11:17:58.295851",
+      "role": "user",
+      "content": "Reset Password",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:18:03.075300",
+      "role": "bot",
+      "content": "To reset your password, follow these steps:\n\n1. Go to https://account.microsoft.com/security\n2. Click \"Change password\"\n3. Enter your current password\n4. Create a new strong password (minimum 12 characters, including uppercase, lowercase, numbers, and symbols)\n5. Click \"Save\"\n\nIf you've forgotten your password:\n1. Click \"Can't access your account?\" on the login page\n2. Verify your identity (email or phone)\n3. Follow the recovery steps\n\nIf you're still having issues, contact IT support. Remember to re-login to all devices after resetting your password.",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:36:41.965030",
+      "role": "user",
+      "content": "Hello",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:36:43.245876",
+      "role": "bot",
+      "content": "Hello. How can I assist you with your IT-related query today?",
+      "metadata": {
+        "source_type": "document",
+        "confidence": "high",
+        "sources": [
+          "VZ.txt",
+          "password_policy.txt",
+          "vpn_setup.txt"
+        ],
+        "follow_up_questions": [
+          "How do I do this step-by-step?",
+          "What if I encounter an error?",
+          "Where can I find more information about this?",
+          "Who should I contact if I need additional help?",
+          "Is there a quicker way to do this?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-15T15:36:43.245876"
+}

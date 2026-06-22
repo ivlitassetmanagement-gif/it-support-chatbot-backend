@@ -1,0 +1,33 @@
+VPN CONNECTION GUIDE
+====================
+
+Connecting to Corporate VPN:
+1. Download VPN Client from IT portal
+2. Open VPN application
+3. Username: your.email@company.com
+4. Password: Your network password (AD login)
+5. Click "Connect"
+6. Wait for "Connected" status
+
+Troubleshooting VPN Issues:
+
+Connection Failed:
+- Check internet connection
+- Verify VPN client is latest version
+- Restart computer
+- Try from different network
+- Contact IT if still failing
+
+Slow VPN Speed:
+- Close bandwidth-heavy apps (streaming, downloads)
+- Try connecting from different location
+- Check firewall settings
+- Run VPN diagnostic tool
+- Contact IT for performance issues
+
+VPN Disconnects Often:
+- Update VPN client
+- Restart network adapter
+- Check firewall rules
+- Update Windows
+- Disable VPN compression in settings

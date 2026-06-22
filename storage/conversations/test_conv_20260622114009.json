@@ -1,0 +1,30 @@
+{
+  "conversation_id": "test_conv_20260622114009",
+  "created_at": "2026-06-22T11:40:11.574026",
+  "messages": [
+    {
+      "timestamp": "2026-06-22T11:40:11.574026",
+      "role": "user",
+      "content": "What is the password policy?",
+      "metadata": {
+        "user_id": "unknown"
+      }
+    },
+    {
+      "timestamp": "2026-06-22T11:40:17.689167",
+      "role": "bot",
+      "content": "I've searched our IT documentation for the password policy, but unfortunately, I couldn't find any relevant information. \n\nThis issue requires additional investigation by the IT Support Team. Please raise a support ticket or contact your IT administrator for further assistance.",
+      "metadata": {
+        "source_type": "web",
+        "confidence": "medium",
+        "sources": [],
+        "follow_up_questions": [
+          "Did you check the company intranet?",
+          "Is your account locked out?",
+          "Do you have a ticket number?"
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-06-22T11:40:17.689167"
+}
